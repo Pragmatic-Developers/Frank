@@ -1,0 +1,6 @@
+student_id,attendance,study_hours,assignment,quiz,midterm,previous_gpa,result
+1,85,12,75,68,72,3.2,PASS
+2,45,3,42,38,40,2.1,FAIL
+3,92,15,88,91,85,3.7,PASS
+4,60,5,55,50,52,2.5,FAIL
+5,78,9,72,70,68,3.0,PASS
